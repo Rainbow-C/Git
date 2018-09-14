@@ -1,0 +1,80 @@
+
+
+Git :  Version Control System ( VCS )
+---------------------------------------------------------------
+
+	Managing Source code ( 90-95 %) => Source Code Management ( SCM )
+	
+	1. Keeps track of changes especially text changes
+	2. version1, version2, version3 ......
+
+	examples of version control ( non-source code )
+	------------------------------------------------------------------------------------
+	=> File naming (fig1.gif, )
+	=> Microsoft Word's Track changes
+	=> Adobe Photoshop's History
+	=> Undo - Control + z (on windows)
+
+
+	History Of Git : 
+	--------------------------
+
+	Source Code Control System (SCCS) : 1972 closed source, free with Unix  ( works only with  single file )
+	=> Saves the snapshot of what the changes were 
+
+	Revision Control System (RCS) : 1982, open source ( works only with  single file )
+
+	Concurrent version system (CVS): 1986-90, open source,  Put file on a remote server (more than one user can work on a file concurrently)  
+	
+	Apache Subversion (SVN) : 2000, open source.
+	Saving of Non text files, Watching the files in the directory, Track the history of Directories. 
+
+	BitKeeper SCM : 2000, Closed source, proprietary, Distributed version Control
+			" Community Version was free "
+
+	used for source code ofLinux Kernel , Controversioal to use  Propreity SCM for an open source Project (in April 2005 BitKeeper Community Version Was stopped for free )
+
+	Git is born ( April 2005 ) :
+	--------------------------------------------
+
+	Git was created by Linus Torvalds ( Created Linux )
+	Replacement for BitKeeper to manage Linux Kernel Source Code.
+	Distributed Vesion Control & Open source and Free software	
+	Compatible with unix like systems ( Linux, Mac OS X, Solaris )  & windows
+	Faster than other SCM's (100x in some cases ).
+	Better safeguards against data Corruption.
+	
+	 Git became a hit, as people discovered the power of Distributed Version Control as they got used to all of Git's nice features, Git has experienced an explosion in popularity. Now there is no official statistics on this but to give you an example, 
+	
+	GitHub launched in 2008 to host Git source code repositories. In 2009, there were over 50,000 repositories with a 100,000 users.
+	 In 2011 just two years later, there were 2 million repositories with over a million users.
+	 So you can see this rapid growth in just two years. 
+
+
+
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	  
